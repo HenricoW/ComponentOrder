@@ -1,0 +1,14 @@
+c:\users\henrico\documents\visual studio 2017\Projects\WPF_AngelSix_1\WPF_AngelSix_1\bin\Debug\WPF_AngelSix_1.exe.config
+c:\users\henrico\documents\visual studio 2017\Projects\WPF_AngelSix_1\WPF_AngelSix_1\bin\Debug\WPF_AngelSix_1.exe
+c:\users\henrico\documents\visual studio 2017\Projects\WPF_AngelSix_1\WPF_AngelSix_1\bin\Debug\WPF_AngelSix_1.pdb
+c:\users\henrico\documents\visual studio 2017\Projects\WPF_AngelSix_1\WPF_AngelSix_1\obj\Debug\WPF_AngelSix_1.csprojResolveAssemblyReference.cache
+c:\users\henrico\documents\visual studio 2017\Projects\WPF_AngelSix_1\WPF_AngelSix_1\obj\Debug\MainWindow.g.cs
+c:\users\henrico\documents\visual studio 2017\Projects\WPF_AngelSix_1\WPF_AngelSix_1\obj\Debug\App.g.cs
+c:\users\henrico\documents\visual studio 2017\Projects\WPF_AngelSix_1\WPF_AngelSix_1\obj\Debug\WPF_AngelSix_1_MarkupCompile.cache
+c:\users\henrico\documents\visual studio 2017\Projects\WPF_AngelSix_1\WPF_AngelSix_1\obj\Debug\WPF_AngelSix_1_MarkupCompile.lref
+c:\users\henrico\documents\visual studio 2017\Projects\WPF_AngelSix_1\WPF_AngelSix_1\obj\Debug\MainWindow.baml
+c:\users\henrico\documents\visual studio 2017\Projects\WPF_AngelSix_1\WPF_AngelSix_1\obj\Debug\WPF_AngelSix_1.g.resources
+c:\users\henrico\documents\visual studio 2017\Projects\WPF_AngelSix_1\WPF_AngelSix_1\obj\Debug\WPF_AngelSix_1.Properties.Resources.resources
+c:\users\henrico\documents\visual studio 2017\Projects\WPF_AngelSix_1\WPF_AngelSix_1\obj\Debug\WPF_AngelSix_1.csproj.GenerateResource.Cache
+c:\users\henrico\documents\visual studio 2017\Projects\WPF_AngelSix_1\WPF_AngelSix_1\obj\Debug\WPF_AngelSix_1.exe
+c:\users\henrico\documents\visual studio 2017\Projects\WPF_AngelSix_1\WPF_AngelSix_1\obj\Debug\WPF_AngelSix_1.pdb
